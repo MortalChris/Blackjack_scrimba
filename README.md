@@ -16,7 +16,7 @@
 <ol>https://scrimba.com</ol>
 
 
-## Acknowledgments
+## Readme Template Credits/Inspiration
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
