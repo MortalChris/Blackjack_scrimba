@@ -1,56 +1,20 @@
-# Project Title
+# BlackJack Game
+<p style="display: flex; flex-wrap: wrap;">Made a blackjack game that was taught using scrimba courses. This is heavily a javascript project to get me used to working with javascript.</p>
 
-Simple overview of use/purpose.
+[![Blackjack-scrimba-img.png](https://i.postimg.cc/gr9hJNJG/Blackjack-scrimba-img.png)](https://postimg.cc/gLDjty87)
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+<ol>Functions of the game are a startgame button to begin the game
+<ol>A draw new cards button(starting with two) which will allow you to draw 1 card per click</ol>
+<ol>The game will read if you go over 21 or hit 21 exactly and will provide a message accordingly</ol>
 
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
+<ol>MortalChris</ol>
+<ol>https://scrimba.com</ol>
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
