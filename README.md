@@ -15,10 +15,6 @@
 <ol>MortalChris</ol>
 <ol>https://scrimba.com</ol>
 
-
-## Readme Template Credits/Inspiration
-  
-
 ## Preview
 https://htmlpreview.github.io/?https://github.com/MortalChris/Blackjack_scrimba/blob/main/index.html
 
